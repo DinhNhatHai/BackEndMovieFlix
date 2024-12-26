@@ -22,7 +22,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Service
-
 public class MovieServiceImpl implements MovieService {
 
     private final MovieRepository movieRepository;
